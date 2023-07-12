@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9CA35E34-B903-3C42-814F-D38902AF5D66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

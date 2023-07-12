@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\build\windows\CMakeFiles\2001bb9d6de1df931bad5f866035e0c4\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\build\windows\CMakeFiles\7b6b57183a9463906004463276367d23\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\VIEW\OneDrive - University of Phayao\เดสก์ท็อป\mobile\shitflutter\git-mobile\ass5\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B0A5959E-C195-35FB-8ACE-8EED9D11CC0C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

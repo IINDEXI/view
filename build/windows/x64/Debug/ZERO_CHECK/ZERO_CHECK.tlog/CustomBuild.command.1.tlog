@@ -1,0 +1,10 @@
+^C:\USERS\VIEW\ONEDRIVE - UNIVERSITY OF PHAYAO\เดสก์ท็อป\MOBILE\SHITFLUTTER\GIT-MOBILE\ASS5\BUILD\WINDOWS\CMAKEFILES\A6FBCEFC3345F2BE1C15D23FCAAD8A9B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/VIEW/OneDrive - University of Phayao/เดสก์ท็อป/mobile/shitflutter/git-mobile/ass5/windows" "-BC:/Users/VIEW/OneDrive - University of Phayao/เดสก์ท็อป/mobile/shitflutter/git-mobile/ass5/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/VIEW/OneDrive - University of Phayao/เดสก์ท็อป/mobile/shitflutter/git-mobile/ass5/build/windows/ass5.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
